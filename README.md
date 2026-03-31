@@ -11,5 +11,5 @@ I enjoy crafting modern frontend experiences while continuously improving my ski
   
 #### GitHub Stats
 
-![Top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athanasios-theodorou&layout=compact&theme=github_dark&langs_count=5&hide=C)
+![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=athanasios-theodorou&layout=compact&theme=github_dark&langs_count=5&hide=C)
 

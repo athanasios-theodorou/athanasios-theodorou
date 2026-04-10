@@ -5,9 +5,9 @@ I enjoy crafting modern frontend experiences while continuously improving my ski
 
 #### Tech Stack
 
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3
-- **Backend:** PHP (Slim), REST APIs
-- **Databases & ORM:** MySQL, SQL Server, Doctrine
+- **Frontend:** React, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Backend Integration:** REST APIs, PHP (Slim), JWT Authentication
+- **Data Layer:** MySQL, SQL Server, Doctrine ORM
   
 #### GitHub Stats
 

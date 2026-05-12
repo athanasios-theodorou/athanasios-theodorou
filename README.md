@@ -21,11 +21,11 @@ I enjoy crafting modern frontend experiences while continuously improving my ski
 ![PHP](https://img.shields.io/badge/Slim_Framework-777BB4?style=flat&logo=php&logoColor=fff)
 ![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=flat&logo=jsonwebtokens&logoColor=fff)
 
-##### Data Layer:
+##### Database Layer:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-8A1C1C?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Doctrine](https://img.shields.io/badge/Doctrine_ORM-FC6A31?style=flat&logo=doctrine&logoColor=fff)
+![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=flat&logo=doctrine&logoColor=fff)
 
 ##### Tools:
 
